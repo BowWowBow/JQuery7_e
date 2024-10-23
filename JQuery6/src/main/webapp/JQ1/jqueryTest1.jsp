@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-제이커리
+
 </body>
 </html>
